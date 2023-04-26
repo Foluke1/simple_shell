@@ -8,7 +8,7 @@
 
 void display_prompt()
 {
-    printf("simple_shell$ ");
+	printf("simple_shell$ ");
 }
 
 void read_input(char *input)
